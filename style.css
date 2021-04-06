@@ -1,0 +1,29 @@
+body {
+    background-color: #2a2a72;
+    background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+
+    
+}
+
+
+.tag:not(body).is-large {
+    cursor: pointer;
+    border-radius: 20px;
+    border-radius: 20px;
+    background: #1D75DE!important;
+}
+.button.is-primary {
+    margin-left: 5px;
+    border-radius: 20px;
+    background: #1D75DE!important;
+
+}
+strong {
+    margin: 10px;
+    color: #fff;
+}
+
+.navbar.is-warning {
+    background-color: #000000;
+background-image: linear-gradient(147deg, #000000 0%, #434343 74%);
+}
